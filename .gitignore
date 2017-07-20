@@ -47,6 +47,8 @@ jspm_packages
 # Yarn Integrity file
 .yarn-integrity
 
+#Mac OS file
+.DS_Store
 
 # Build Files
 public/
